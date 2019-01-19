@@ -1,7 +1,10 @@
 # Symfony3_PaypalREST_DoctrineStorage
 
 Test PaypalREST Payum with symfony 3
-This project is just for testing PaypalRest payment with Symfony 3&...4(probably not tested)
+
+This project is just for testing PaypalRest Symfony 3 and PayumBundle
+
+
 There is several 'dump()' to show you what's appening when you are executing the process or cancel the payment.
 
 see 'services'
