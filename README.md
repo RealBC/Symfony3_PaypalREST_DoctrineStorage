@@ -14,10 +14,11 @@ see 'services'
 On the root path app_dev.php you will find two links to test paypal api calls: 
 one with filesystemStorage and an other one with doctrine storage.
 
+- Don't the tiny cmd: php bin/console doctrine:schema:update
 - Don't forget to put your id and your PaypalRest key 'sandbox'
 - Don't forget the path to the sdk_config.ini in the config folder
 
-Enjoy !
+havre a good day !
 
 RealBC
 bcomandon@real-click.fr
